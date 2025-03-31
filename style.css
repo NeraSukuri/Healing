@@ -87,7 +87,7 @@ body {
 }
 
 .testimonials {
-    background-color: #1E90FF; /* More readable shade of deepskyblue */
+    background-color: #1E90FF; 
 }
 
 .testimom {
@@ -105,7 +105,7 @@ body {
     width: 250px;
     height: 150px;
     margin: 10px;
-    background: #ADD8E6; /* Light blue */
+    background: #ADD8E6; 
     line-height: 1.5;
     border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -191,12 +191,12 @@ body {
 }
 
 .Where {
-    background-color: #D2691E; /* Adjusted chocolate color */
+    background-color: #D2691E; 
 }
 
 footer {
     background: #222;
-    color: white; /* Added text color for readability */
+    color: white; 
 }
 .appoint{
     max-width: 900px;
@@ -219,8 +219,8 @@ footer {
 }
 .meetthera{
     display: flex;
-    gap: 20px; /* Adjust the gap size as needed */
-    flex-wrap: wrap; /* Allows wrapping if screen is small */
+    gap: 20px;
+    flex-wrap: wrap; 
     justify-content: center;
     margin-left: 10%;
     margin-right: 10%; 
@@ -231,8 +231,8 @@ footer {
 }
 .IndiThera{
     display: flex;
-    gap: 20px; /* Adjust the gap size as needed */
-    flex-wrap: nowrap; /* Allows wrapping if screen is small */
+    gap: 20px;
+    flex-wrap: nowrap; 
     margin-left: 20%;
     margin-right: 20%; 
 
