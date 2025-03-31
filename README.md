@@ -50,3 +50,4 @@ Add a backend for appointment scheduling,Blogs , Event Scheduling.
 Contributing
 Contributions are welcome! Feel free to give improvements.
 
+contact me - aryanprajapati19@gmail.com
