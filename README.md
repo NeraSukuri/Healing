@@ -1,4 +1,7 @@
 # Healing
+
+For now Blog, Pages,Products, Shops are not available.
+
 Healy - Therapy & Counseling Website
 
 
